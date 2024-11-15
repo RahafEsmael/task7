@@ -1,0 +1,22 @@
+.serviceCards{
+    width: 22%;
+    padding: 2px;
+    margin: 10px;
+    border: rgb(235, 238, 255) solid 2px;
+    background-color: rgb(243 247 251);
+    border-radius: 16px;
+    padding: 20px;
+}
+
+.serviceCards img{
+    border:  rgb(235, 238, 255) solid 2px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.serviceCards button{
+    border:  rgb(235, 238, 255) solid 2px;
+    border-radius: 24px;
+    padding: 10px;
+    background-color: rgb(243 247 251);
+    margin-top: 20px;
+}

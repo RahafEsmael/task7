@@ -1,0 +1,97 @@
+.backImage{
+    position:relative;
+    width: 100%;
+    height: calc(100vh - 80px);
+    border-radius: 30px;
+    margin-top: 50px;
+   display: flex                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ;
+    flex-direction: row-reverse;
+    background-color: #384bff;
+  overflow: none;
+    z-index: 0;
+  }
+.backImage1{
+    position: absolute;
+    width: 35%;
+    height: 60vh;
+top:270px ;
+}  
+.backImage2{
+    max-height: 80vh;
+    position: absolute;
+    margin-top: 50px;
+    bottom: 0px;
+    right: 19%;
+    z-index: 0;
+}    
+.backImage3{
+    width: 10%;
+    height: 50vh;
+    position: absolute;
+    top: 43%;
+    left: 0;
+    z-index: 0;
+}
+.paragraphs{
+    position: absolute;
+    left: 3px;
+    bottom: 0;
+    top: 0;
+    width: 30%;
+    margin: 100px 100px 0px 100px;
+   /*padding: 0px 50px;*/
+  
+}
+.paragraphs p{
+    width: 88%;
+    font-size: 16px;
+    max-height: 25px;
+    color: #fff;
+    border: #fff solid 1px;
+    border-radius: 16px;
+    text-align: center;
+    margin: 10px 0px;
+}
+.paragraphs h1{
+color: #fff;
+margin: 3% 0%;
+}
+.paragraphs ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 10% 0%;
+}
+.paragraphs ul li{
+    margin: 5px 0px;
+    color: #fff;
+}
+.paragraphs button{
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    background-color: #f98600;
+    margin-top: 11px;
+    padding: 11px;
+    margin-bottom: 26%;
+}
+.valuing{
+    background-color: hsla(0, 0%, 100%, 0.389);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+}
+.valuing p{
+    border: none;
+    text-align: left;
+
+}
+.valuing span p{
+    color: #fff;
+    flex-direction: row;
+}
+   
+
+    

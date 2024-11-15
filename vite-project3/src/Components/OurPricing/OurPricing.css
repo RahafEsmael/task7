@@ -1,0 +1,10 @@
+.ourPricing{
+    background-color: #18185e;
+    width: 100%;
+    height: 50vh;
+}
+.ourPricingCards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
